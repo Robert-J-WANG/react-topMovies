@@ -6,7 +6,7 @@ const TOKEN =
 
 export async function getTopMovies(page) {
   // 先在package.json中配置代理，方便维护更改
-  const res = await axios.get("/3/movie/top_rated", {
+  const res = await axios.get("https://api.themoviedb.org/3/movie/top_rated", {
     params: { page },
     headers: { Authorization: "Bearer " + TOKEN },
   });

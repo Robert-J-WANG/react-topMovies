@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Robert-J-WANG/react-topMovies.git/static/css/main.82537162.chunk.css",
-    "main.js": "/Robert-J-WANG/react-topMovies.git/static/js/main.4e24e3e2.chunk.js",
-    "main.js.map": "/Robert-J-WANG/react-topMovies.git/static/js/main.4e24e3e2.chunk.js.map",
-    "runtime~main.js": "/Robert-J-WANG/react-topMovies.git/static/js/runtime~main.07f5e912.js",
-    "runtime~main.js.map": "/Robert-J-WANG/react-topMovies.git/static/js/runtime~main.07f5e912.js.map",
-    "static/js/2.bc114ac2.chunk.js": "/Robert-J-WANG/react-topMovies.git/static/js/2.bc114ac2.chunk.js",
-    "static/js/2.bc114ac2.chunk.js.map": "/Robert-J-WANG/react-topMovies.git/static/js/2.bc114ac2.chunk.js.map",
-    "index.html": "/Robert-J-WANG/react-topMovies.git/index.html",
-    "precache-manifest.7e2e24a556ec395b43313209ae96b0de.js": "/Robert-J-WANG/react-topMovies.git/precache-manifest.7e2e24a556ec395b43313209ae96b0de.js",
-    "service-worker.js": "/Robert-J-WANG/react-topMovies.git/service-worker.js",
-    "static/css/main.82537162.chunk.css.map": "/Robert-J-WANG/react-topMovies.git/static/css/main.82537162.chunk.css.map"
+    "main.css": "/react-topMovies/static/css/main.82537162.chunk.css",
+    "main.js": "/react-topMovies/static/js/main.4e24e3e2.chunk.js",
+    "main.js.map": "/react-topMovies/static/js/main.4e24e3e2.chunk.js.map",
+    "runtime~main.js": "/react-topMovies/static/js/runtime~main.a1b436dd.js",
+    "runtime~main.js.map": "/react-topMovies/static/js/runtime~main.a1b436dd.js.map",
+    "static/js/2.bc114ac2.chunk.js": "/react-topMovies/static/js/2.bc114ac2.chunk.js",
+    "static/js/2.bc114ac2.chunk.js.map": "/react-topMovies/static/js/2.bc114ac2.chunk.js.map",
+    "index.html": "/react-topMovies/index.html",
+    "precache-manifest.08d4afc92af82af24338bc17381bac54.js": "/react-topMovies/precache-manifest.08d4afc92af82af24338bc17381bac54.js",
+    "service-worker.js": "/react-topMovies/service-worker.js",
+    "static/css/main.82537162.chunk.css.map": "/react-topMovies/static/css/main.82537162.chunk.css.map"
   }
 }
